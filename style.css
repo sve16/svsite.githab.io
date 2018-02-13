@@ -1,0 +1,38 @@
+body {
+  background-color: #f9d6ff;
+}
+h1 {
+  background-color: #C1B4FF;
+  text-align: center;
+  border: 2px solid #EFECFF;
+  font-family:'Monotype Corsiva';
+}
+h2 {
+  background-color: #f9d6ff;
+  text-align: center;
+  border: 3px solid #EFECFF;
+  font-family:'Segoe script';
+}
+p {
+  text-align: center;
+  font-size: 20px;
+}
+img {
+  display: block;
+  margin: auto;
+}
+ul {
+  text-align: center;
+}
+table {
+  background: linear-gradient(45deg, #9575CA, #DCC7FF);
+}
+td {
+  text-align: center;
+}
+th {
+  font-family:'Segoe script';
+}
+a {
+  text-align: center;
+}
